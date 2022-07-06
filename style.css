@@ -162,6 +162,61 @@ input[type="text"] {
     height: 100%;
 }
 
+/* ============= Blog content section ======== */
+.blog_header {
+    background-image: url(img/donate1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 220px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.blog_header h2 {
+    color: #fff;
+    font-size: 42px;
+    padding: 55px;
+}
+
+span.text_color {
+    color: orange;
+}
+
+.signle_blog_item {
+    display: flex;
+    margin-top: 70px;
+}
+
+.blog {
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0px 2px 8px grey;
+    border-radius: 5px;
+}
+
+.blog img {
+    width: 100%;
+    height: 245px;
+}
+
+.blog p {
+    line-height: 1.6;
+    color: #7e7e7e;
+}
+
+.read_btn {
+    margin: 30px 0;
+}
+
+.read_btn a {
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(45deg, orange, tomato);
+    padding: 10px 30px;
+}
+
 /* ================= */
 .submit_area {
     padding: 60px;
