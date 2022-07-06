@@ -4,6 +4,7 @@ body {
     padding: 0;
 }
 
+/* =========== Header section ========= */
 .header_section {
     background-image: url(img/donation13.jpg);
     background-repeat: no-repeat;
@@ -13,7 +14,7 @@ body {
 
 .header_area {
     text-align: center;
-    padding: 112px;
+    padding: 124px;
 }
 
 .header_area h1 {
